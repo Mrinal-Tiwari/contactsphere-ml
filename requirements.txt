@@ -1,0 +1,8 @@
+Flask
+Flask-CORS
+psycopg2-binary
+SQLAlchemy
+pandas
+numpy
+matplotlib
+gunicorn
